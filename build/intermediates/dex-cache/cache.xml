@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_2a83366a9911b10a43ac415a97e1579cedddc4a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_f216243e366addfef345c54af521628aa91706d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_1a4b83f4b587ad5b0454eb32b2125aa5b1cca1ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_2a6c8b00db0ad9e8fc85293d8bc92175f433877b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a1e2a33f2436bd96782c32d916fab9542d19ec93">
+        <dex dex="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7ee1c9dc24a53b9f8322664544f26c7ebd3cf1cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_16c975700cc9e3f1602d678c9616cf709fedf04a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_7e9c5e59ed5fce402df9838c687eef7d73779adf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_0205411c62d523b293d7d711f03311f19de8b4ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_c5f216b29e163025dcaa1c77d3e777c0769f594f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_5f0f047a38494d7e8b71e2ec8f6798b46a6d238b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_b14adc9e1e42eb5172bb1664deb9b4d346f5d308.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_8588dafc0d0f699997c1c8123701c65ea9fb9843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8ac18510d77b1ad86667abe2ad2278a05358b6dc">
+        <dex dex="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\pre-dexed\debug\instant-run_d722e247a38041b75e1cd0f373ab17620eb4001a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_e080c895e41363ef30a70873a274c12f8c3a6e93.jar" />
+    </item>
+
+</items>
